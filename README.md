@@ -3,3 +3,5 @@ Widely known web3 researcher x.com/zachxbt announced a bounty on scraped info fo
 
 <img width="435" height="438" alt="image" src="https://github.com/user-attachments/assets/9cb8e14a-e74a-45cb-a7d2-6ad560cfb090" />
 
+No auth or proxies necessary. 
+https://lockedlog.com/research/scraping-infofi-website-for-a-researcher
